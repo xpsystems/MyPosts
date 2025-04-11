@@ -1,2 +1,2 @@
 # MyPosts
-a Laravel-Based Post website
+a Laravel-Based Post website (by XPSYSTEMS.eu)
